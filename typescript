@@ -1,0 +1,752 @@
+Script started on 2024-11-14 16:18:51+00:00 [TERM="xterm" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ hsi[K[Kistory
+[?2004l    1  ls
+    2  ls -li
+    3  ls -i
+    4  cd devops
+    5  cd ..
+    6  ls devops
+    7  cd devops/shrini
+    8  cd ../..
+    9  cd devops/shrini
+   10  cd ~
+   11  cd maven
+   12  cd devops/shrini
+   13  cd ~
+   14  cd -
+   15  cd /tmp
+   16  ls
+   17  cd -
+   18  cd ~
+   19  ls
+   20  rmdir
+   21  ls
+   22  tree
+   23  rmdir gowda
+   24  ls
+   25  rm devops
+   26  rm -r devops
+   27  ls
+   28  rm -rf devops
+   29  ls
+   30  rm -rf maven
+   31  ls
+   32  vi devops.txt
+   33  rm devops.txt
+   34  ls
+   35  vi devops.txt
+   36  vi maven.txt
+   37  vi jenkins.txt
+   38  ls
+   39  rm *
+   40  ls
+   41  touch devops.txt
+   42  ls
+   43  touch maven.txt
+   44  vi devops.txt
+   45  ls
+   46  vi maven.txt
+   47  ls
+   48  ls -la
+   49  touch maven.txt
+   50  ls -la
+   51  find . d -empty
+   52  find .-type d -empty
+   53  find . -type d -empty
+   54  find . -type f -empty
+   55  cd devops
+   56  mkdir devops
+   57  mkdir jenkins
+   58  ls
+   59  find . -type d -empty
+   60  touch jenkins.txt
+   61  find . -type f -empty
+   62  cd devops.txt
+   63  cd devops
+   64  ls
+   65  vi shrini.txt
+   66  ls
+   67  cd ..
+   68  ls
+   69  find -name devops.txt
+   70  find devops -type f
+   71  find devops -name shrini.txt
+   72  find devops -iname Shrini
+   73  find devops -iname Shrini.txt
+   74  mkdir shrini
+   75  ls -la
+   76  vi shrini.txt
+   77  ls -la
+   78  chmod 000 shrini.txt
+   79  ls
+   80  ls -la
+   81  chmod +x shrini.txt
+   82  ls -la
+   83  chmod +r shrini.txt
+   84  ls -la
+   85  chmod ugo+w shrini.txt
+   86  ls -la
+   87  chmod 000 shrini.txt
+   88  ls -la
+   89  chmod u+w shrini.txt
+   90  ls -la
+   91  chmod ugo+rw shrini.txt
+   92  ls -la
+   93  chmod 333 shrini.txt
+   94  ls -la
+   95  vi shini.txt
+   96  vi shrini.txt
+   97  cd devops
+   98  ls
+   99  cd ..
+  100  chmod 700 devops
+  101  ls -la
+  102  cd devops
+  103  ls
+  104  ls -la
+  105  cd ..
+  106  chmod -R 700 devops
+  107  ls -la
+  108  cd devops
+  109  ls
+  110  ls -la
+  111  chown root devops.txt
+  112  chown root shrini.txt
+  113  sudo chown root shrini.txt
+  114  ls -la
+  115  cd ..
+  116  cd shrini
+  117  ls
+  118  vi devops.txt
+  119  ls
+  120  cd ..
+  121  ls
+  122  ls -la
+  123  cd shrini
+  124  ls 
+  125  ls -la
+  126  cd ..
+  127  chown -R root shrini
+  128  sudo chown -R root shrini
+  129  ls -la
+  130  cd shrini
+  131  ls
+  132  ls -la
+  133  chgrp wheel devops.txt
+  134  sudo chgrp wheel devops.txt
+  135  ls -la
+  136  cd ..
+  137  ls
+  138  ls -la
+  139  sudo chown root:root devops
+  140  ls -la
+  141  ls
+  142  cp devops.txt jenkins
+  143  ls
+  144  cd jenkins
+  145  ls
+  146  cp shrini.txt shrini
+  147  cd ..
+  148  ls
+  149  cd shrini.txt shrini
+  150  cp shrini.txt shrini
+  151  cp -r jenkins devops
+  152  cd ls -la
+  153  ls -la
+  154  chown ec2-user shrini
+  155  sudo chown ec2-user shrini
+  156  sudo chown ec2-user devops
+  157  ls
+  158  ls -la
+  159  cp -r shrini jenkins
+  160  ls -la
+  161  cd shrini
+  162  ls
+  163  cd jenkins
+  164  cd ..
+  165  cd jenkins
+  166  ls
+  167  cd ..
+  168  ls
+  169  mv maven.txt mavendevops.txt
+  170  ls -la
+  171  mv mavendevops.txt devops
+  172  ls -la
+  173  cd devops
+  174  ls
+  175  mv jenkins devops
+  176  cd ..
+  177  mv jenkins devops
+  178  ls -la
+  179  file devops.txt
+  180  touch shine.txt
+  181  file shine.txt
+  182  vi shine.txt
+  183  wc shine.txt
+  184  wc -l shine.txt
+  185  wc -w shine.txt
+  186  wc -c shine.txt
+  187  wc -lw shine.txt
+  188  ls
+  189  cat shrini.txt
+  190  cat jenkins.txt
+  191  cat shini.txt
+  192  cat shrini
+  193  vi shini.txt
+  194  vim shine.txt
+  195  yum install vim
+  196  sudo yum install vim
+  197  vim shine.txt
+  198  nano shine.txt
+  199  sudo yum install nano
+  200  nano shine.txt
+  201  echo Hello guys
+  202  echo Shrini 
+  203  echo Hello           guys
+  204  echo 'Hello guys'
+  205  echo "Hello         guys"
+  206  echo 'Hello   guys"
+  207  ls
+  208  cat shrini.txt
+  209  ls -la
+  210  chmod 700 shrini.txt
+  211  ls -a
+  212  ls -la
+  213  cat shrini.txt
+  214  cat shini.txt
+  215  cat devops.txt
+  216  cat shini.txt devops.txt
+  217  cat -n shini.txt devops.txt
+  218  cat jenkins.txt
+  219  cat shine.txt
+  220  head shine.txt
+  221  cat jenkins.txt
+  222  ls
+  223  cat devops.txt
+  224  cat shini.txt
+  225  cat shrini.txt
+  226  cat devops.txt
+  227  cat jenkins.txt
+  228  cat shine.txt
+  229  head shine.txt
+  230  head -n 13 shine.txt
+  231  head -13 shine.txt
+  232  tail shine.txt
+  233  tail -n 13 shine.txt
+  234  tail -13 shine.txt
+  235  tail -f 10 shine.txt
+  236  ls
+  237  vi maven.txt
+  238  sed -n "3p" maven.txt
+  239  sed -n "3,4p" maven.txt
+  240  sed -n "2,3p" maven.txt
+  241  ls
+  242  ls -la
+  243  sed "s/maven/package" maven.txt
+  244  sed "s/maven/package/" maven.txt
+  245  sed "s/maven/package" maven.txt
+  246  vi maven.txt
+  247  sed "s/maven/package/" maven.txt
+  248  vi maven.txt
+  249  sed "s/maven/package/" maven.txt
+  250  sed "s/maven/package/g" maven.txt
+  251  vi maven.txt
+  252  more maven.txt
+  253  vi maven.txt
+  254  more maven.txt
+  255  less maven.txt
+  256  ls
+  257  cat shine.txt
+  258  sort -n shine.txt
+  259  cat shine.txt
+  260  cat shine.txt | sort
+  261  cat shine.txt | sort | tr [a-z] [A-Z]
+  262  grep shinegowda shine.txt
+  263  grep SHINEGOWDA shine.txt
+  264  grep -i SHINEGOWDA shine.txt
+  265  ls
+  266  pwd
+  267  cd /rppt
+  268  cd /root
+  269  sudo cd /root
+  270  ls
+  271  pwd
+  272  sudo su -
+  273  yum install tree -y
+  274  sudo yum install tree -y
+  275  ls
+  276  tree shrini
+  277  touch shine.txt
+  278  touch gowda.txt
+  279  ls
+  280  ls -la
+  281  ls -lt
+  282  ls -ltr
+  283  ls -lh
+  284  ls -la
+  285  ls -i
+  286  ls -li
+  287  cd shine
+  288  cd shrini
+  289  ls
+  290  cd ..
+  291  cd../..
+  292  cd shrini
+  293  cd ~
+  294  cd -
+  295  cd
+  296  cd /tmp
+  297  ls
+  298  cd ~
+  299  ls
+  300  rmdir
+  301  cd devops
+  302  ls
+  303  cd ~
+  304  cd shrini
+  305  ls
+  306  cd ~
+  307  cd Devops
+  308  ls
+  309  cd ~
+  310  rmdir Devops
+  311  ls
+  312  rmdir shrini
+  313  rm -r shrini
+  314  ls
+  315  rm shine.txt
+  316  ls
+  317  rm -rf shini.txt
+  318  rm *
+  319  rmdir *
+  320  touch shrini.txt
+  321  mkdir gowda
+  322  vi shrini.txt
+  323  ls -lt
+  324  touch shrini.txt
+  325  ls -lt
+  326  touch shrini.txt
+  327  ls -lt
+  328  find . -type f -empty
+  329  find . -type f - empty
+  330  find . -type f -empty
+  331  find -type f -empty
+  332  find -type d -empty
+  333  touch shine.txt
+  334  find . -type f -empty
+  335  find . -type d -empty
+  336  find / -type d -empty
+  337  ls
+  338  cd devops
+  339  ls
+  340  cd ..
+  341  cd devops
+  342  find shrini.txt -f type
+  343  find shrini.txt -type f
+  344  find -name shrini.txt
+  345  find -iname Shrini.txt
+  346  cd ~
+  347  umask
+  348  sudo su -
+  349  user shrini
+  350  users shrini
+  351  su shrini
+  352  useradd shrini
+  353  sudo useradd shrini
+  354  ls
+  355  su shrini
+  356  sudo su shrini
+  357  mkdir shine
+  358  ls
+  359  ls -la
+  360  vi gowda.txt
+  361  ls -la
+  362  sls
+  363  ls
+  364  find . -type f -empty
+  365  ls -la
+  366  vi shrini.txt
+  367  find . -type f -empty
+  368  touch devops.txt
+  369  find . -type f -empty
+  370  ls
+  371  cd Devops
+  372  ls
+  373  cd ../..
+  374  ls
+  375  cd ~
+  376  cd devops
+  377  mkdir devops
+  378  ls
+  379  mkdir maven
+  380  ls
+  381  mkdir sonarqube
+  382  ls
+  383  cd sonarqube
+  384  ls
+  385  touch devops.txt
+  386  find . -type f -empty
+  387  vi shine.txt
+  388  find . -type f -empty
+  389  find -type f
+  390  cd ..
+  391  find sonarqube -type f
+  392  find -name devops.txt
+  393  find -iname devops.txt
+  394  find -name d Devops
+  395  find -name d devops
+  396  ls
+  397  find -iname d devops
+  398  find -iname devops
+  399  umask
+  400  sudo su -
+  401  mkdir nexus
+  402  ls -la
+  403  vi nexus.txt
+  404  ls -la
+  405  vi ~/.bash_profile
+  406  umask
+  407  vi ~/.bash-profile
+  408  umask
+  409  vi ~/.bash-profile
+  410  vi ~/.bash_profile
+  411  mkdir kubernetes
+  412  ls -la
+  413  vi ~/.bash_profile
+  414  cd ~
+  415  l
+  416  ls
+  417  ls -la
+  418  vi .bash_profile
+  419  umask
+  420  sudo su -
+  421  mkdir shrini
+  422  ls
+  423  mkdir -p devops/maven
+  424  ls
+  425  mkdir -pv Devops/Maven
+  426  mkdir -m 700 jenkins
+  427  ls
+  428  l -la
+  429  ls -la
+  430  yum install tree -y
+  431  sudo yum install tree -y
+  432  tree jenkins
+  433  tree devops
+  434  tree
+  435  touch devops.txt
+  436  ls -lt
+  437  ls -ltr
+  438  ls -lh
+  439  ls -la
+  440  ls -i
+  441  ls -li
+  442  cd devops
+  443  ls
+  444  cd ..
+  445  cd devops
+  446  ls
+  447  cd maven
+  448  cd ../..
+  449  cd devops
+  450  ls
+  451  cd maven
+  452  cd ~
+  453  cd /tmp
+  454  cd -
+  455  cd 
+  456  rmdir Devops
+  457  ls
+  458  rmdir shrini
+  459  rm -r devops
+  460  rm -rf devops
+  461  ls 
+  462  rm *
+  463  ls
+  464  vi devops.txt
+  465  ls
+  466  cp devops.txt jenkins
+  467  sudo cp devops.txt jenkins
+  468  ls
+  469  cd jenkins
+  470  ls
+  471  cd jenkins
+  472  vi ~/.bash_profile
+  473  vi /etc/profile
+  474  sudo vi /etc/profile
+  475  sudo reboot
+  476  ls
+  477  rm 8
+  478  rm *
+  479  ls
+  480  rmdir *
+  481  rmdir -r *
+  482  rm -r *
+  483  ls
+  484  rm -f jenkins
+  485  rm -rf jenkins
+  486  chown ec2-user:ec2-user jenkins
+  487  sudo chown ec2-user:ec2-user jenkins
+  488  rm -r jenkins
+  489  sudo chown -R ec2-user:ec2-user jenkins
+  490  rm -r jenkins
+  491  cd jenkins
+  492  ls
+  493  ls -la
+  494  chmod 700 devops.txt
+  495  cd ..
+  496  rm -r jenkins
+  497  ls
+  498  vi shrini.txt
+  499  vi devops.txt
+  500  mkdir Devops
+  501  mkdir jenkins
+  502  cp shrini.txt Devops
+  503  ls
+  504  cd Devops
+  505  ls
+  506  cd ..
+  507  cp *.txt jenkins
+  508  ls
+  509  cd jenkins
+  510  ls
+  511  cd ..
+  512  cp -r Devops jenkins
+  513  ls
+  514  cd jenkins
+  515  ls
+  516  cd ..
+  517  ls
+  518  mv devops.txt devopstech.txt
+  519  ls
+  520  mv devopstech.txt jenkins
+  521  ls
+  522  mv jenkins Devops
+  523  ls
+  524  file shrini.txt
+  525  wc shrini.txt
+  526  wc -l shrini.txt
+  527  wc -w shrini.txt
+  528  wc -c shrini.txt
+  529  wc -lw shrini.txt
+  530  ls
+  531  vi shrini.txt
+  532  vi Devops.txt
+  533  ln shrini.txt Devops.txt
+  534  cat Devops.txt
+  535  cat shrini.txt
+  536  vi shrini.txt
+  537  cat Devops.txt
+  538  rm -f Devops.txt
+  539  ls
+  540  vi Devops.txt
+  541  ls
+  542  ln shrini.txt Devops
+  543  ln shrini.txt
+  544  ls
+  545  rm -f Devops.txt
+  546  ls
+  547  vi Devops.txt
+  548  ln shrini.txt Devops.txt
+  549  ls
+  550  rm -f Devops.txt
+  551  ls
+  552  vi Devops.txt
+  553  ln shrini.txt Devops.txt
+  554  rm -f Devops.txt
+  555  ls
+  556  ln shrini.txt Devops.txt
+  557  ls
+  558  cat Devops.txt
+  559  ls -li
+  560  ls
+  561  rm -f shrini.txt
+  562  ls
+  563  cat Devops.txt
+  564  ln -s Devops.txt shrini.txt
+  565  ls
+  566  ls -li
+  567  cat shrini.txt
+  568  rm -f Devops.txt
+  569  ls
+  570  cat shrini.txt
+  571  rm -f shrini.txt
+  572  cat shrini.txt
+  573  vi shrini.txt
+  574  cat shrini.txt
+  575  ls
+  576  vi shrini.txt
+  577  ls
+  578  vi gowda.txt
+  579  more gowda.txt
+  580  vi gowda.txt
+  581  more gowda.txt
+  582  less gowda.txt
+  583  sort gowda.txt
+  584  less gowda.txt
+  585  cat gowda.txt
+  586  sort gowda.txt
+  587  sort -r gowda.txt
+  588  cat gowda.txt | sort
+  589  cat gowda.txt | sort | tr [a-z] [A-Z]
+  590  grep Hello gowda.txt
+  591  grep -i hello gowda.txt
+  592  who
+  593  who -H
+  594  ls
+  595  systemctl list-unit-files
+  596  sudo launchctl list
+  597  systemctl sshd status'
+  598  systemctl sshd status
+  599  systemctl status sshd
+  600  systemctl status shhd
+  601  systemctl status sshd
+  602  service sshd status
+  603  last
+  604  ps
+  605  ps -ef
+  606  ps
+  607  ps -ef
+  608  ps -ef | grep sshd
+  609  ps -ef
+  610  kill -l
+  611  top
+  612  sar
+  613  yum install sysstat -y
+  614  sudo yum install sysstat -y
+  615  sar
+  616  ls
+  617  zip -r Devops
+  618  sudo yum install zip -y
+  619  zip -r Devops
+  620  ls
+  621  zip -r Devops.zip Devops
+  622  ls
+  623  rm -r Devops
+  624  ls
+  625  unzip Devops.zip
+  626  ls
+  627  mkdir impact
+  628  ls
+  629  unzip Devops.zip -d impact
+  630  ls
+  631  cd impact
+  632  ls
+  633  cd ..
+  634  tar -cvf Devops.tar Devops
+  635  ls
+  636  tar -xvf Devops.tar impact
+  637  tar -xvf Devops.tar devops
+  638  tar -xvf Devops.tar
+  639  ls
+  640  tar -xvf Devops.tar -d /impact/devops
+  641  tar -xvf Devops.tar  /impact/devops
+  642  tar -xvf Devops.tar
+  643  cd ~
+  644  su shrini
+  645  sudo su shrini
+  646  su - shrini
+  647  sudo su -
+  648  su - shrini
+  649  sudo usermod -g wheel shrini
+  650  su - shrini
+  651  ls
+  652  lid -g devops
+  653  sudo lid -g devops
+  654  usermod -g devops shrini
+  655  sudo usermod -g devops shrini
+  656  sudo lid -g devops
+  657  groups shrini
+  658  id shrini
+  659  users
+  660  sudo usermod -g devops ec2-user
+  661  sudo lid -g devops
+  662  groups ec2-user
+  663  sudo groups ec2-user
+  664  sudo su -
+  665  ls
+  666  passwd shrini
+  667  sudo passwd shrini
+  668  passwd
+  669  sudo su shrini
+  670  su shrini
+  671  sudo chage shrini
+  672  usermod -L shrini
+  673  sudo usermod -L shrini
+  674  su shrini
+  675  sudo passwd shrini
+  676  su shrini
+  677  sudo usermod -L shrini
+  678  su shrini
+  679  sudo usermod -U shrini
+  680  su shrini
+  681  cd /etc/group
+  682  cd /etc/groups
+  683  cd /etc
+  684  ls
+  685  cd group
+  686  nano group
+  687  groupadd devops
+  688  sudo groupadd devops
+  689  ls
+  690  nano group
+  691  vi passwd
+  692  cd /home
+  693  ls
+  694  userdel gowd
+  695  userdel gowda
+  696  sudo userdel gowda
+  697  ls
+  698  sudo userdel -r  gowda
+  699  ls
+  700  rmdir gowda
+  701  sudo rmdir gowda
+  702  sudo rm -f  gowda
+  703  sudo rm -f gowda
+  704  sudo rm -rf gowda
+  705  ls
+  706  userdel -r shrini
+  707  sudo userdel -r shrini
+  708  kill -9 23321
+  709  sudo kill -9 23321
+  710  sudo userdel -r shrini
+  711  ls
+  712  groupdel devops
+  713  sudo groupdel devops
+  714  cd ~
+  715  ls
+  716  ls -la
+  717  cd Devops
+  718  ls
+  719  cd jenkins
+  720  ls
+  721  cd ..
+  722  cd ~
+  723  exit
+  724  ls
+  725  top
+  726  head shrini.txt
+  727  tail shrini.txt
+  728  more shrini.txt
+  729  less shrini.txt
+  730  exit
+  731  ls
+  732  cat hello.sh
+  733  sh hello.sh
+  734  cat shrini.txt
+  735  exit
+  736  history
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ uh[K[Khistp[Kory -c
+[?2004l]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ hos[K[Kistpo/[K[K[Kp[Kory
+[?2004l    1  history
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ ping google.com
+[?2004lPING google.com (142.251.221.78) 56(84) bytes of data.
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=1 ttl=115 time=0.903 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=2 ttl=115 time=1.85 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=3 ttl=115 time=1.16 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=4 ttl=115 time=1.76 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=5 ttl=115 time=1.27 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=6 ttl=115 time=2.03 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=7 ttl=115 time=1.28 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=8 ttl=115 time=0.950 ms
+64 bytes from syd09s31-in-f14.1e100.net (142.251.221.78): icmp_seq=9 ttl=115 time=1.28 

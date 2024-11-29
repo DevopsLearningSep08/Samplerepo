@@ -1,0 +1,29 @@
+Hello
+I am shrinivas
+I am working at Impact Analytics
+
+I know linux
+Script started on 2024-11-14 16:17:48+00:00 [TERM="xterm" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ ls
+[?2004l[0m[01;31mapache-maven-3.8.8-bin.tar.gz[0m  gowda.txt  lsoutput.txt   typescript
+[01;34mDevops[0m                         hello.log  nohup.out
+[01;31mDevops.tar[0m                     [01;32mhello.sh[0m   shrini.txt
+[01;31mDevops.zip[0m                     [01;34mimpact[0m     teeoutput.log
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ cat hello,[K.sh
+[?2004lecho "Hello guys"
+echo "How are you guys"
+echo "what are you doing"
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ sh hello,.[K[K.sh
+[?2004lHello guys
+How are you guys
+what are you doing
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ cat shrini.txt
+[?2004lHello
+I am shrinivas
+I am working at Impact Analytics
+
+I know linux
+]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ exit
+[?2004lexit
+
+Script done on 2024-11-14 16:18:17+00:00 [COMMAND_EXIT_CODE="0"]
