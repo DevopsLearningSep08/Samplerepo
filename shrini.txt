@@ -2,6 +2,9 @@ Hello
 I am shrinivas
 I am working at Impact Analytics
 
+How are you doing?
+What about your status?
+
 I know linux
 Script started on 2024-11-14 16:17:48+00:00 [TERM="xterm" TTY="/dev/pts/5" COLUMNS="80" LINES="24"]
 ]0;ec2-user@ip-172-31-15-10:~[?2004h[ec2-user@ip-172-31-15-10 ~]$ ls
