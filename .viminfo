@@ -15,11 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1733975152,,"wq"
+|2,0,1734659502,,"wq"
 :q
-|2,0,1732432155,,"q"
+|2,0,1734659326,,"q"
 :q!
-|2,0,1732431745,,"q!"
+|2,0,1734184329,,"q!"
 :/devops
 |2,0,1731509902,,"/devops"
 :3
@@ -66,237 +66,279 @@
 |3,1,36,0,1,0,1732353435,"p"
 
 # File marks:
-'0  1  17  ~/newfile.txt
-|4,48,1,17,1733975152,"~/newfile.txt"
-'1  3  2  ~/add.sh
-|4,49,3,2,1732432155,"~/add.sh"
-'2  3  2  ~/sub.sh
-|4,50,3,2,1732431970,"~/sub.sh"
-'3  3  2  ~/add.sh
-|4,51,3,2,1732431857,"~/add.sh"
-'4  3  2  ~/add.sh
-|4,52,3,2,1732431839,"~/add.sh"
-'5  3  2  ~/add.sh
-|4,53,3,2,1732431839,"~/add.sh"
-'6  1  0  ~/addex.sh
-|4,54,1,0,1732431745,"~/addex.sh"
-'7  11  0  ~/utilities.sh
-|4,55,11,0,1732431567,"~/utilities.sh"
-'8  9  0  ~/functions.sh
-|4,56,9,0,1732431225,"~/functions.sh"
-'9  9  0  ~/functions.sh
-|4,57,9,0,1732431211,"~/functions.sh"
+'0  1  0  ~/newfile.txt
+|4,48,1,0,1734659502,"~/newfile.txt"
+'1  1  0  ~/newfile.txt
+|4,49,1,0,1734659474,"~/newfile.txt"
+'2  1  28  ~/newfile3.txt
+|4,50,1,28,1734659429,"~/newfile3.txt"
+'3  1  26  ~/newfile2.txt
+|4,51,1,26,1734659394,"~/newfile2.txt"
+'4  3  11  ~/.gitignore
+|4,52,3,11,1734659370,"~/.gitignore"
+'5  1  51  ~/addedfile.txt
+|4,53,1,51,1734659335,"~/addedfile.txt"
+'6  3  0  ~/.gitignore
+|4,54,3,0,1734659326,"~/.gitignore"
+'7  3  0  ~/.gitignore
+|4,55,3,0,1734659299,"~/.gitignore"
+'8  3  0  ~/.gitignore
+|4,56,3,0,1734659299,"~/.gitignore"
+'9  3  0  ~/.gitignore
+|4,57,3,0,1734659284,"~/.gitignore"
 
 # Jumplist (newest first):
--'  1  17  ~/newfile.txt
-|4,39,1,17,1733975152,"~/newfile.txt"
--'  3  2  ~/add.sh
-|4,39,3,2,1732432155,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732432155,"~/add.sh"
--'  3  2  ~/sub.sh
-|4,39,3,2,1732431970,"~/sub.sh"
--'  3  2  ~/sub.sh
-|4,39,3,2,1732431970,"~/sub.sh"
--'  3  2  ~/sub.sh
-|4,39,3,2,1732431970,"~/sub.sh"
--'  3  2  ~/sub.sh
-|4,39,3,2,1732431970,"~/sub.sh"
--'  1  0  ~/sub.sh
-|4,39,1,0,1732431870,"~/sub.sh"
--'  1  0  ~/sub.sh
-|4,39,1,0,1732431870,"~/sub.sh"
--'  1  0  ~/sub.sh
-|4,39,1,0,1732431870,"~/sub.sh"
--'  1  0  ~/sub.sh
-|4,39,1,0,1732431870,"~/sub.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431857,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431857,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431857,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431857,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431839,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431839,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431839,"~/add.sh"
--'  3  2  ~/add.sh
-|4,39,3,2,1732431839,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/add.sh
-|4,39,1,0,1732431756,"~/add.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  1  0  ~/addex.sh
-|4,39,1,0,1732431745,"~/addex.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
--'  11  0  ~/utilities.sh
-|4,39,11,0,1732431567,"~/utilities.sh"
+-'  1  0  ~/newfile.txt
+|4,39,1,0,1734659502,"~/newfile.txt"
+-'  1  0  ~/newfile.txt
+|4,39,1,0,1734659474,"~/newfile.txt"
+-'  1  28  ~/newfile3.txt
+|4,39,1,28,1734659429,"~/newfile3.txt"
+-'  1  28  ~/newfile3.txt
+|4,39,1,28,1734659429,"~/newfile3.txt"
+-'  1  28  ~/newfile3.txt
+|4,39,1,28,1734659429,"~/newfile3.txt"
+-'  1  28  ~/newfile3.txt
+|4,39,1,28,1734659429,"~/newfile3.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  1  26  ~/newfile2.txt
+|4,39,1,26,1734659394,"~/newfile2.txt"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  3  11  ~/.gitignore
+|4,39,3,11,1734659370,"~/.gitignore"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659326,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
+-'  3  0  ~/.gitignore
+|4,39,3,0,1734659299,"~/.gitignore"
 
 # History of marks within files (newest to oldest):
 
 > ~/newfile.txt
-	*	1733975151	0
-	"	1	17
-	^	1	18
-	.	1	17
-	+	1	17
+	*	1734659500	0
+	"	1	0
+	^	1	0
+	.	2	27
+	+	1	18
+	+	2	27
+
+> ~/newfile3.txt
+	*	1734659428	0
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
+
+> ~/newfile2.txt
+	*	1734659393	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/.gitignore
+	*	1734659366	0
+	"	3	11
+	^	3	12
+	.	3	11
+	+	1	11
+	+	2	13
+	+	3	11
+
+> ~/addedfile.txt
+	*	1734659333	0
+	"	1	51
+	^	1	52
+	.	1	51
+	+	1	51
+
+> ~/gitignore
+	*	1734185018	0
+	"	1	0
+
+> ~/forloop.txt
+	*	1734181374	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	2	18
 
 > ~/add.sh
 	*	1732432152	0
@@ -400,50 +442,3 @@
 	+	9	0
 	+	6	0
 	+	5	0
-
-> ~/filepermission.sh
-	*	1732368708	0
-	"	4	0
-	.	3	13
-	+	3	13
-
-> ~/istate5.sh
-	*	1732366291	0
-	"	9	1
-	^	9	2
-	.	9	2
-	+	9	2
-
-> ~/ifstate4.sh
-	*	1732366091	0
-	"	12	1
-	^	12	2
-	.	12	0
-	+	12	0
-
-> ~/ifstate3.sh
-	*	1732365832	0
-	"	9	1
-	^	9	2
-	.	9	0
-	+	9	0
-
-> ~/netstedifstate.sh
-	*	1732365670	0
-	"	4	3
-	^	4	4
-	.	4	3
-	+	12	35
-	+	10	34
-	+	13	0
-	+	2	1
-	+	13	0
-	+	4	3
-
-> ~/ifstate1.sh
-	*	1732365070	0
-	"	4	14
-	^	4	15
-	.	4	14
-	+	9	0
-	+	4	14

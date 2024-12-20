@@ -1,105 +1,3 @@
-find devops -name shrini.txt
-find devops -iname Shrini
-find devops -iname Shrini.txt
-mkdir shrini
-ls -la
-vi shrini.txt
-ls -la
-chmod 000 shrini.txt
-ls
-ls -la
-chmod +x shrini.txt
-ls -la
-chmod +r shrini.txt
-ls -la
-chmod ugo+w shrini.txt
-ls -la
-chmod 000 shrini.txt
-ls -la
-chmod u+w shrini.txt
-ls -la
-chmod ugo+rw shrini.txt
-ls -la
-chmod 333 shrini.txt
-ls -la
-vi shini.txt
-vi shrini.txt
-cd devops
-ls
-cd ..
-chmod 700 devops
-ls -la
-cd devops
-ls
-ls -la
-cd ..
-chmod -R 700 devops
-ls -la
-cd devops
-ls
-ls -la
-chown root devops.txt
-chown root shrini.txt
-sudo chown root shrini.txt
-ls -la
-cd ..
-cd shrini
-ls
-vi devops.txt
-ls
-cd ..
-ls
-ls -la
-cd shrini
-ls 
-ls -la
-cd ..
-chown -R root shrini
-sudo chown -R root shrini
-ls -la
-cd shrini
-ls
-ls -la
-chgrp wheel devops.txt
-sudo chgrp wheel devops.txt
-ls -la
-cd ..
-ls
-ls -la
-sudo chown root:root devops
-ls -la
-ls
-cp devops.txt jenkins
-ls
-cd jenkins
-ls
-cp shrini.txt shrini
-cd ..
-ls
-cd shrini.txt shrini
-cp shrini.txt shrini
-cp -r jenkins devops
-cd ls -la
-ls -la
-chown ec2-user shrini
-sudo chown ec2-user shrini
-sudo chown ec2-user devops
-ls
-ls -la
-cp -r shrini jenkins
-ls -la
-cd shrini
-ls
-cd jenkins
-cd ..
-cd jenkins
-ls
-cd ..
-ls
-mv maven.txt mavendevops.txt
-ls -la
-mv mavendevops.txt devops
-ls -la
 cd devops
 ls
 mv jenkins devops
@@ -998,3 +896,105 @@ vi add.sh
 vi sub.sh
 sh sub.sh
 vi add.sh
+ls
+git commit -m "Third commit"
+git log
+git revert a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git status
+git log
+git revert a98cf84447ff96623798e7cf0ec1a324e75a62ea 
+git push origin master -f
+git commit --amend -m "reverted by shrini"
+git log
+git push origin master
+git show a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git show --pretty = "--name-only a98cf84447ff96623798e7cf0ec1a324e75a62ea"
+ls
+git log
+git remote -v
+git push origin master
+git show --pretty="" --name-only 5a62ea
+git show --pretty="" --name-only a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git revert a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git revert a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git status
+git log
+git push origin master
+ls
+git push origin master
+git log
+git push origin master
+git log
+git commit --amend -m "reverted by shrini"
+git log
+git commit --amend -m "updated by shrini"
+git log
+git commit -a -m "updated"
+git log
+ls -la
+git push origin master
+git clean -f .bash_history
+git status
+vi newfile.txt
+git status
+git add .
+git commit -a -m "new file updated"
+git log
+git remote -v
+git push origin master 
+git reset -hard a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git reset --hard a98cf84447ff96623798e7cf0ec1a324e75a62ea
+git reset --hard a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git push origin master
+git reset --hard a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git push origin master
+git log
+git show --pretty ="" --name-only a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git show --pretty = "" --name-only a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git show --pretty="" --name-only a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git clean -f .bash_history
+git status
+vi add1.txt
+git status
+git commit -m "added file"
+git add *
+git commit -m "add1 file added"
+git staus
+git status
+git log
+git push origin master
+git reset --hard a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git push orini master
+git push origin master
+git log
+git show --pretty="" --name-only a20288adec0fd0a96e3a7cec8dfe63925f677d9f
+git reset --hard HEAD~
+git push origin master
+vi newfile.txt
+git add *
+git commit -a -m "This is added"
+git push origin master
+git clean -n
+ls
+git clean -f forloop.sh
+git clean -n
+ls
+git clean -n --help
+git clean -n forloop.sh
+ls
+vi .gitignore
+ls
+vi .gitignore
+vi newfile.txt
+vi .gitignore
+vi newfile.txt
+git add .gitignore
+git commit -m "Add .gitignore file"
+git status
+git push origin master
+git add *
+git commit -m "this new file should ommit"
+git status
+git push origin master
+vi gitignore
+ls -la
