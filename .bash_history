@@ -1,13 +1,3 @@
-echo Shrini 
-echo Hello           guys
-echo 'Hello guys'
-echo "Hello         guys"
-echo 'Hello   guys"
-
-ls
-cat shrini.txt
-ls -la
-chmod 700 shrini.txt
 ls -a
 ls -la
 cat shrini.txt
@@ -998,3 +988,13 @@ git branch stage development
 git branch
 curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
 curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello Vivek, How are you,When you are coming to Bangalore"}' https://hooks.slack.com/services/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
+git branch
+git branch development
+git checkout development
+git branch
+touch stringfile.sh
+git add >
+git add .
+git commit -m "new string file added"
+git remote -v
+git push origin development
