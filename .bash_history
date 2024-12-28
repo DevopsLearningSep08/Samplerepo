@@ -1,32 +1,3 @@
-cd devops
-ls
-mv jenkins devops
-cd ..
-mv jenkins devops
-ls -la
-file devops.txt
-touch shine.txt
-file shine.txt
-vi shine.txt
-wc shine.txt
-wc -l shine.txt
-wc -w shine.txt
-wc -c shine.txt
-wc -lw shine.txt
-ls
-cat shrini.txt
-cat jenkins.txt
-cat shini.txt
-cat shrini
-vi shini.txt
-vim shine.txt
-yum install vim
-sudo yum install vim
-vim shine.txt
-nano shine.txt
-sudo yum install nano
-nano shine.txt
-echo Hello guys
 echo Shrini 
 echo Hello           guys
 echo 'Hello guys'
@@ -998,3 +969,32 @@ git status
 git push origin master
 vi gitignore
 ls -la
+ls
+git branch
+git branch development
+git branch
+git checkout development
+git status
+git add *
+git status
+git commit -m "This is new branch"
+git branch
+git push origin master
+git branch development
+git checkout development
+touch string1.txt
+git status
+git add .
+git commit -m "file added to commit branch"
+git branch
+git push origin development
+ls
+git branch
+git checkout master
+git diff development
+git merge development
+git push origin master
+git branch stage development
+git branch
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello, World!"}' https://hooks.slack.com/services/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
+curl -X POST -H 'Content-type: application/json' --data '{"text":"Hello Vivek, How are you,When you are coming to Bangalore"}' https://hooks.slack.com/services/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
