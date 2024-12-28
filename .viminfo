@@ -15,7 +15,11 @@
 
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1735376865,,"wq"
+=======
+|2,0,1735376948,,"wq"
+>>>>>>> development
 :q
 |2,0,1734659326,,"q"
 :q!
@@ -66,6 +70,7 @@
 |3,1,36,0,1,0,1732353435,"p"
 
 # File marks:
+<<<<<<< HEAD
 '0  1  15  ~/kubernetes.txt
 |4,48,1,15,1735376865,"~/kubernetes.txt"
 '1  1  0  ~/shrini.txt
@@ -82,23 +87,47 @@
 |4,54,3,11,1734659370,"~/.gitignore"
 '7  1  51  ~/addedfile.txt
 |4,55,1,51,1734659335,"~/addedfile.txt"
+=======
+'0  1  17  ~/kubernetes.txt
+|4,48,1,17,1735376948,"~/kubernetes.txt"
+'1  1  0  ~/newfile.txt
+|4,49,1,0,1734659502,"~/newfile.txt"
+'2  1  0  ~/newfile.txt
+|4,50,1,0,1734659474,"~/newfile.txt"
+'3  1  28  ~/newfile3.txt
+|4,51,1,28,1734659429,"~/newfile3.txt"
+'4  1  26  ~/newfile2.txt
+|4,52,1,26,1734659394,"~/newfile2.txt"
+'5  3  11  ~/.gitignore
+|4,53,3,11,1734659370,"~/.gitignore"
+'6  1  51  ~/addedfile.txt
+|4,54,1,51,1734659335,"~/addedfile.txt"
+'7  3  0  ~/.gitignore
+|4,55,3,0,1734659326,"~/.gitignore"
+>>>>>>> development
 '8  3  0  ~/.gitignore
 |4,56,3,0,1734659326,"~/.gitignore"
 '9  3  0  ~/.gitignore
 |4,57,3,0,1734659299,"~/.gitignore"
 
 # Jumplist (newest first):
+<<<<<<< HEAD
 -'  1  15  ~/kubernetes.txt
 |4,39,1,15,1735376865,"~/kubernetes.txt"
 -'  1  0  ~/shrini.txt
 |4,39,1,0,1735376823,"~/shrini.txt"
 -'  1  0  ~/shrini.txt
 |4,39,1,0,1735376823,"~/shrini.txt"
+=======
+-'  1  17  ~/kubernetes.txt
+|4,39,1,17,1735376948,"~/kubernetes.txt"
+>>>>>>> development
 -'  1  0  ~/newfile.txt
 |4,39,1,0,1734659502,"~/newfile.txt"
 -'  1  0  ~/newfile.txt
 |4,39,1,0,1734659502,"~/newfile.txt"
 -'  1  0  ~/newfile.txt
+<<<<<<< HEAD
 |4,39,1,0,1734659502,"~/newfile.txt"
 -'  1  0  ~/newfile.txt
 |4,39,1,0,1734659502,"~/newfile.txt"
@@ -107,6 +136,8 @@
 -'  1  0  ~/newfile.txt
 |4,39,1,0,1734659474,"~/newfile.txt"
 -'  1  0  ~/newfile.txt
+=======
+>>>>>>> development
 |4,39,1,0,1734659474,"~/newfile.txt"
 -'  1  0  ~/newfile.txt
 |4,39,1,0,1734659474,"~/newfile.txt"
@@ -126,6 +157,7 @@
 |4,39,1,28,1734659429,"~/newfile3.txt"
 -'  1  28  ~/newfile3.txt
 |4,39,1,28,1734659429,"~/newfile3.txt"
+<<<<<<< HEAD
 -'  1  28  ~/newfile3.txt
 |4,39,1,28,1734659429,"~/newfile3.txt"
 -'  1  28  ~/newfile3.txt
@@ -174,6 +206,8 @@
 |4,39,1,26,1734659394,"~/newfile2.txt"
 -'  1  26  ~/newfile2.txt
 |4,39,1,26,1734659394,"~/newfile2.txt"
+=======
+>>>>>>> development
 -'  1  26  ~/newfile2.txt
 |4,39,1,26,1734659394,"~/newfile2.txt"
 -'  1  26  ~/newfile2.txt
@@ -270,6 +304,7 @@
 |4,39,3,11,1734659370,"~/.gitignore"
 -'  3  11  ~/.gitignore
 |4,39,3,11,1734659370,"~/.gitignore"
+<<<<<<< HEAD
 -'  3  11  ~/.gitignore
 |4,39,3,11,1734659370,"~/.gitignore"
 -'  3  11  ~/.gitignore
@@ -288,10 +323,91 @@
 |4,39,3,11,1734659370,"~/.gitignore"
 -'  3  11  ~/.gitignore
 |4,39,3,11,1734659370,"~/.gitignore"
+=======
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+-'  1  51  ~/addedfile.txt
+|4,39,1,51,1734659335,"~/addedfile.txt"
+>>>>>>> development
 
 # History of marks within files (newest to oldest):
 
 > ~/kubernetes.txt
+<<<<<<< HEAD
 	*	1735376863	0
 	"	1	15
 	^	1	16
@@ -301,6 +417,13 @@
 > ~/shrini.txt
 	*	1735376821	0
 	"	1	0
+=======
+	*	1735376947	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+>>>>>>> development
 
 > ~/newfile.txt
 	*	1734659500	0
@@ -436,3 +559,14 @@
 	^	7	20
 	.	7	19
 	+	7	19
+<<<<<<< HEAD
+=======
+
+> ~/forloop.sh
+	*	1732370560	0
+	"	3	20
+	^	3	21
+	.	3	20
+	+	7	19
+	+	3	20
+>>>>>>> development
