@@ -1,88 +1,3 @@
-ls -a
-ls -la
-cat shrini.txt
-cat shini.txt
-cat devops.txt
-cat shini.txt devops.txt
-cat -n shini.txt devops.txt
-cat jenkins.txt
-cat shine.txt
-head shine.txt
-cat jenkins.txt
-ls
-cat devops.txt
-cat shini.txt
-cat shrini.txt
-cat devops.txt
-cat jenkins.txt
-cat shine.txt
-head shine.txt
-head -n 13 shine.txt
-head -13 shine.txt
-tail shine.txt
-tail -n 13 shine.txt
-tail -13 shine.txt
-tail -f 10 shine.txt
-ls
-vi maven.txt
-sed -n "3p" maven.txt
-sed -n "3,4p" maven.txt
-sed -n "2,3p" maven.txt
-ls
-ls -la
-sed "s/maven/package" maven.txt
-sed "s/maven/package/" maven.txt
-sed "s/maven/package" maven.txt
-vi maven.txt
-sed "s/maven/package/" maven.txt
-vi maven.txt
-sed "s/maven/package/" maven.txt
-sed "s/maven/package/g" maven.txt
-vi maven.txt
-more maven.txt
-vi maven.txt
-more maven.txt
-less maven.txt
-ls
-cat shine.txt
-sort -n shine.txt
-cat shine.txt
-cat shine.txt | sort
-cat shine.txt | sort | tr [a-z] [A-Z]
-grep shinegowda shine.txt
-grep SHINEGOWDA shine.txt
-grep -i SHINEGOWDA shine.txt
-ls
-pwd
-cd /rppt
-cd /root
-sudo cd /root
-ls
-pwd
-sudo su -
-yum install tree -y
-sudo yum install tree -y
-ls
-tree shrini
-touch shine.txt
-touch gowda.txt
-ls
-ls -la
-ls -lt
-ls -ltr
-ls -lh
-ls -la
-ls -i
-ls -li
-cd shine
-cd shrini
-ls
-cd ..
-cd../..
-cd shrini
-cd ~
-cd -
-cd
 cd /tmp
 ls
 cd ~
@@ -998,3 +913,88 @@ git add .
 git commit -m "new string file added"
 git remote -v
 git push origin development
+git status
+git log
+git status
+git log
+git remote -v
+git push origin development
+git remote -v
+git push origin development
+ls
+git branch
+git checkout master
+git branch
+git commit -m "updated"
+git add *
+git commit -m "updated"
+git add .
+git commit -m "updated"
+git checkout master
+git branch
+git diff development
+git merge development
+git push origin master
+ls
+git branch -r
+git branch
+vi shrini.txt
+vi kubernetes.txt
+git add .
+git commit -m "kuberenetes"
+git checkout development
+vi kubernetes.txt
+git add .
+git commit -m "kuberenetes"
+git checkout master
+git merge development
+vi kubernetes.txt
+git merge development
+git add .
+git commit -m "kuberenetes"
+git merge development
+git branch -r
+git branch -a
+git checkout -b qa
+git branch qa stage
+git status
+git checkout development
+git branch qa development
+git status
+git branch
+git checkout qa
+git pull development
+git status
+git merge development
+t status
+git status
+git push origin --all
+ls
+git pull origin 
+git pull
+git push origin master
+git branch -a
+git remote -a
+git branch -r
+git push origin :uat
+git branch -d stage
+git push origin :stage
+ls
+git branch 
+git branch qarepo
+git branch
+git branch -d qarepo
+git branch -m qarepo
+git branch
+git branch -m development developmentrepo
+git branch
+git branch -m developmentrepo development
+git branch
+git remote remove aliasname
+git remote remove origin
+git remote -v
+git remote add devops https://github.com/DevopsLearningSep08/Samplerepo
+git remote -v
+git merge development stage
+git branch stage
+git merge development stage
